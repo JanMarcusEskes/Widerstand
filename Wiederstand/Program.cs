@@ -11,7 +11,6 @@ namespace Wiederstand
     static void Main(string[] args)
     {
       double R1, R2, R3;
-      string eingabe;
       Console.WriteLine("Wiederstand 1: ");
       R1 = Double.Parse(Console.ReadLine());
       Console.WriteLine("Wiederstand 2: ");
